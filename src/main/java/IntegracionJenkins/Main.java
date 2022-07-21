@@ -22,5 +22,6 @@ public class Main {
         relOp.goodHeight(object_height, min_height, max_height);
         
         relOp.goodWidth(object_width, min_width, max_width);
+        System.out.println("Cambio");
     }
 }
